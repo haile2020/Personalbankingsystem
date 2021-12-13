@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E269EE0827679E2C00A4776D /* PersonalBankingSystem */ = {isa = PBXFileReference; lastKnownFileType = folder; name = PersonalBankingSystem; sourceTree = "<group>"; };
 		E296A8CD275AF84800FF63B3 /* PersonalBankingSystem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PersonalBankingSystem; sourceTree = BUILT_PRODUCTS_DIR; };
 		E296A8D0275AF84800FF63B3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E296A8D0275AF84800FF63B3 /* main.cpp */,
+				E269EE0827679E2C00A4776D /* PersonalBankingSystem */,
 			);
 			path = PersonalBankingSystem;
 			sourceTree = "<group>";
